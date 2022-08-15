@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TbcTask15</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">welcome</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+</resources>
